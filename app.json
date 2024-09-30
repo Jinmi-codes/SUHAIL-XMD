@@ -1,7 +1,7 @@
 {
-  "name": "suhail-whatsapp-bot@1.0.1",
-  "description": "I am Suhail-X Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
- "logo":"https://telegra.ph/file/9dcef2b49909742db8dbd.jpg",
+  "name": "Feng Zhi v1.0",
+  "description": "Feng Zhi by koji!",
+ "logo":"https://files.fm/u/cb4pj3zw4q",
  
   "old__logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
@@ -29,7 +29,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "Suhail-X-Md"
+      "value": "Feng Zhi"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -67,11 +67,11 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "2349022212703"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
-      "value": ""
+      "value": "gIDQxLFxuICAgICAgMTcyLFxuICAgICAgNCxcbiAgICAgIDI5LFxuICAgICAgODcsXG4gICAgICAxNzksXG4gICAgICA5NixcbiAgICAgIDk5LFxuICAgICAgMjQsXG4gICAgICAxNjIsXG4gICAgICAyNDEsXG4gICAgICAxMDYsXG4gICAgICAxNTgsXG4gICAgICAyMDEsXG4gICAgICAxMzYsXG4gICAgICAxNjksXG4gICAgICAxNyxcbiAgICAgIDExOSxcbiAgICAgIDEyMVxuICAgIF1cbiAgfSxcbiAgXCJyZWdpc3RlcmVkXCI6IHRydWUsXG4gIFwiYmFja3VwVG9rZW5cIjoge1xuICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgIFwiZGF0YVwiOiBbXG4gICAgICAxOTIsXG4gICAgICA2OSxcbiAgICAgIDE0NCxcbiAgICAgIDEyLFxuICAgICAgODQsXG4gICAgICAxMDMsXG4gICAgICAxODMsXG4gICAgICAxNzgsXG4gICAgICA1MyxcbiAgICAgIDIwOCxcbiAgICAgIDgxLFxuICAgICAgMTk4LFxuICAgICAgNjgsXG4gICAgICAxODcsXG4gICAgICA5NixcbiAgICAgIDE5MSxcbiAgICAgIDEyOCxcbiAgICAgIDIzNCxcbiAgICAgIDIyMixcbiAgICAgIDEzM1xuICAgIF1cbiAgfSxcbiAgXCJyZWdpc3RyYXRpb25cIjoge30sXG4gIFwicGFpcmluZ0NvZGVcIjogXCJMQkxMTlFLNVwiLFxuICBcIm1lXCI6IHtcbiAgICBcImlkXCI6IFwiMjM0OTAyMjIxMjcwMzoyNkBzLndoYXRzYXBwLm5ldFwiLFxuICAgIFwibGlkXCI6IFwiMTA4ODQ3NjU4MTcyNTA3OjI2QGxpZFwiXG4gIH0sXG4gIFwiYWNjb3VudFwiOiB7XG4gICAgXCJkZXRhaWxzXCI6IFwiQ0tYYTl0Y0ZFUEhYN0xjR0dBVWdBQ2dBXCIsXG4gICAgXCJhY2NvdW50U2lnbmF0dXJlS2V5XCI6IFwibS9YZEFiK2w0TXR0UytWVVBoRE15bzdxRGtCTDhZaktXMEU5dENqSG5TYz1cIixcbiAgICBcImFjY291bnRTaWduYXR1cmVcIjogXCJTc0E2RVZacDFoZUdHNkZiZVVsS1k0ZEVCY0pBRFNLS1g5VzZTdU9aYWFBVlJFN0hsVzRyMjhCaS9GMGxEN0JtSnBnSWRtUGt0VjNDdmFxVHpGdWhBZz09XCIsXG4gICAgXCJkZXZpY2VTaWduYXR1cmVcIjogXCJ0Y3F5ZHpoZm1leVgwZGl3cmdMTk56b2JES1AyZlhzWjFjdUFsZm1OdGtOMmI5MEU3elJjYXYxVm1nVGtXNDdHZTFyeHdJTy9sOWZ1TitEVC91cmtDUT09XCJcbiAgfSxcbiAgXCJzaWduYWxJZGVudGl0aWVzXCI6IFtcbiAgICB7XG4gICAgICBcImlkZW50aWZpZXJcIjoge1xuICAgICAgICBcIm5hbWVcIjogXCIyMzQ5MDIyMjEyNzAzOjI2QHMud2hhdHNhcHAubmV0XCIsXG4gICAgICAgIFwiZGV2aWNlSWRcIjogMFxuICAgICAgfSxcbiAgICAgIFwiaWRlbnRpZmllcktleVwiOiB7XG4gICAgICAgIFwidHlwZVwiOiBcIkJ1ZmZlclwiLFxuICAgICAgICBcImRhdGFcIjogW1xuICAgICAgICAgIDUsXG4gICAgICAgICAgMTU1LFxuICAgICAgICAgIDI0NSxcbiAgICAgICAgICAyMjEsXG4gICAgICAgICAgMSxcbiAgICAgICAgICAxOTEsXG4gICAgICAgICAgMTY1LFxuICAgICAgICAgIDIyNCxcbiAgICAgICAgICAyMDMsXG4gICAgICAgICAgMTA5LFxuICAgICAgICAgIDc1LFxuICAgICAgICAgIDIyOSxcbiAgICAgICAgICA4NCxcbiAgICAgICAgICA2MixcbiAgICAgICAgICAxNixcbiAgICAgICAgICAyMDQsXG4gICAgICAgICAgMjAyLFxuICAgICAgICAgIDE0MixcbiAgICAgICAgICAyMzQsXG4gICAgICAgICAgMTQsXG4gICAgICAgICAgNjQsXG4gICAgICAgICAgNzUsXG4gICAgICAgICAgMjQxLFxuICAgICAgICAgIDEzNixcbiAgICAgICAgICAyMDIsXG4gICAgICAgICAgOTEsXG4gICAgICAgICAgNjUsXG4gICAgICAgICAgNjEsXG4gICAgICAgICAgMTgwLFxuICAgICAgICAgIDQwLFxuICAgICAgICAgIDE5OSxcbiAgICAgICAgICAxNTcsXG4gICAgICAgICAgMzlcbiAgICAgICAgXVxuICAgICAgfVxuICAgIH1cbiAgXSxcbiAgXCJwbGF0Zm9ybVwiOiBcImFuZHJvaWRcIixcbiAgXCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXBcIjogMTcyNzczNjgyMSxcbiAgXCJteUFwcFN0YXRlS2V5SWRcIjogXCJBQUFBQUlRZVwiXG59IiwKICAiYXBwLXN0YXRlLXN5bmMta2V5LUFBQUFBSVFlLmpzb24iOiAie1wia2V5RGF0YVwiOlwiZ1NwZC9kLzBVdkFiR0g2QkljZ084OWo3RThpbXowamFWb21pR1ZyVXpjQT1cIixcImZpbmdlcnByaW50XCI6e1wicmF3SWRcIjoxNTI2NTc0MzczLFwiY3VycmVudEluZGV4XCI6MSxcImRldmljZUluZGV4ZXNcIjpbMCwxXX0sXCJ0aW1lc3RhbXBcIjpcIjBcIn0iCn0="
   
     },
     "OPENAI_API_KEY": {
@@ -95,12 +95,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "Junior, You dare!?",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "Koji",
       "required": false 
     }
   }, 
